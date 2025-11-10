@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 16px;
+    color: #333333;
+    text-align: left;
+}
+
+.secao{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 16px;
+    background-color: #f4f6f8;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
+}
+
+h1{
+    font-size: 36px;
+    color: #1a1a1a;
+    text-align: center;
+}
+
+h2{
+    font-size: 28px;
+    color: #2c3e50;
+    text-align: center;
+}
+
+h3{
+    font-size: 24px;
+    color: #34495e;
+    text-align: left;
+}
+
+h4{
+    font-size: 20px;
+    color: #555555;
+}
+
+h5{
+    font-size: 18px;
+    color: #666666;
+}
+
+h6{
+    font-size: 16px;
+    color: #777777;
+}
+
+p{
+    font-size: 14px;
+    color: #444444;
+    text-align: justify;
+}
+
+div{
+    text-align: left;
+}
+
+span{
+    color: #0066cc;
+    font-size: 14px;
+}
+
+.contatos{
+    text-align: right;
+    color: #0d3b66;
+}
+
+.aprendizado{
+    border-left: 4px solid #e67e22;
+    padding-left: 12px;
+    color: #2d3436;
+}
+
+.destaque{
+    color: #e74c3c;
+    font-size: 16px;
+}
+
+.link-social{
+    color: #16a085;
+    font-size: 15px;
+}
+
+.tecnologia{
+    color: #8e44ad;
+    font-size: 14px;
+}
+
+.div{
+    border-radius: 2%;
+}
